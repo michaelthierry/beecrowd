@@ -14,7 +14,7 @@
 int main(){
 
     // variaveis
-    double const PI = 3.14159;
+    const double PI = 3.14159;
     double raioEsfera, volumeEsfera;
     // lendo do usuario
     scanf("%lf", &raioEsfera);
