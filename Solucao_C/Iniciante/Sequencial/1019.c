@@ -20,7 +20,6 @@ int main() {
     segundos -=  (horas * 3600);
     minutos = segundos / 60;
     segundos -= (minutos * 60);
-    segundos = segundos;
     // exibindo resultado
     printf("%d:%d:%d\n", horas, minutos, segundos);
     // fim
