@@ -19,7 +19,7 @@ int main() {
     std::cin >> primeiraNota >> segundaNota;
 
     media = ((primeiraNota * 3.5) + (segundaNota * 7.5)) / 11.0;
-;
+
     std::cout << "MEDIA = " << std::setprecision(5) << std::fixed << media << std:: endl;
     
     return 0;
