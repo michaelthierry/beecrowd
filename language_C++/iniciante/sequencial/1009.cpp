@@ -25,4 +25,5 @@ int main() {
               << novoSalario << std::endl;
 
     return 0;
+    
 }
