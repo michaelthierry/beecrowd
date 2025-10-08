@@ -25,5 +25,5 @@ int main(){
     std::cout << "VALOR A PAGAR: R$ " << std::fixed << std::setprecision(2)
               << valorTotal << std::endl;
 
-    return 0;
+    return 0; 
 }
