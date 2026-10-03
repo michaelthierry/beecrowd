@@ -1,7 +1,7 @@
 /**
  * @file 1094.c
  * @author Michael Thierry (michaelthierry86@gmail.com)
- * @brief 
+ * @brief Experiências
  * @version 0.1
  * @date 2026-10-03
  * 
